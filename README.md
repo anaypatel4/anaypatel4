@@ -4,7 +4,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>My first project</b>
-  - [link to project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [link to project]()
 
 <h2>Connect with me:</h2>
 
