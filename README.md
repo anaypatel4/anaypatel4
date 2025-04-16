@@ -3,7 +3,7 @@
   
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Building a Home Cyber lab</b>
+- <b>Creating a Personal Cybersecurity Lab</b>
   - [link to project](https://github.com/anaypatel4/cyberlab)
 
 <h2>Connect with me:</h2>
