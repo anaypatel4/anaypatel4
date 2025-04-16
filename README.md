@@ -4,7 +4,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Building a Home Cyber lab</b>
-  - [link to project](https://github.com/anaypatel4/anaypatel4/cyberlab)
+  - [link to project](https://github.com/anaypatel4/cyberlab)
 
 <h2>Connect with me:</h2>
 
