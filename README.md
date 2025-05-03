@@ -3,7 +3,7 @@
   
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Creating a Personal Cybersecurity Lab</b>
+- <b>Creating a Home Cybersecurity Lab</b>
   - [link to project](https://github.com/anaypatel4/cyberlab)
 
 - <b>Threat Intelligence-Driven Cybersecurity Risk Management Tool</b>
