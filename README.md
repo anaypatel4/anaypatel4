@@ -6,6 +6,9 @@
 - <b>Creating a Personal Cybersecurity Lab</b>
   - [link to project](https://github.com/anaypatel4/cyberlab)
 
+- <b>Threat Intelligence-Driven Cybersecurity Risk Management Tool</b>
+  - [link to project](https://github.com/anaypatel4/threatinteltool)
+
 <h2>Connect with me:</h2>
 
 <p><a href="https://www.linkedin.com/in/anay-patel">LinkedIn</a></p>
